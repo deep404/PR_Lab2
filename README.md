@@ -8,8 +8,7 @@
 
 
 Config File Management and E-mail Notifications:
-
-##Logical Flow:
+Logical Flow:
 
 __1. Install/import the necessary modules;__
 
