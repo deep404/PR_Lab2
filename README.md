@@ -7,7 +7,34 @@
 > Moglan Mihai
 
 
-Config File Management and E-mail Notifications:
+Reading+Writing Device Configuration via SSH.
+Logical Flow:
+
+__1. Importing the modules;__
+
+__2. Checking IP addr file & content validity;__
+
+__3. Checking IP reachability;__
+
+__4. Checking user file validity;__
+
+__5. Checking command file validity;__
+
+__6. Calling validity check functions;__
+
+__7. Opening and reading the user file. Extracting username and password.;__
+
+__8. Opening a session to the device using the user and pass;__
+
+__9. Opening and reading the command file. Sending the commands.;__
+
+__10. a. Reading output from the device;__
+
+__10. b. Calling the connection function. Threading.
+
+
+
+Config File Management and E-mail Notifications.
 Logical Flow:
 
 __1. Install/import the necessary modules;__
