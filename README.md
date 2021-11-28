@@ -30,8 +30,12 @@ __9. Opening and reading the command file. Sending the commands.;__
 
 __10. a. Reading output from the device;__
 
-__10. b. Calling the connection function. Threading.
+__10. b. Calling the connection function. Threading.;__
 
+
+>
+>
+>
 
 
 Config File Management and E-mail Notifications.
