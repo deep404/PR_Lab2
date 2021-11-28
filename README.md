@@ -33,9 +33,9 @@ __10. a. Reading output from the device;__
 __10. b. Calling the connection function. Threading.;__
 
 
->
->
->
+> ()
+> ()
+> ()
 
 
 Config File Management and E-mail Notifications.
