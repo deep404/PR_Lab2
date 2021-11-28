@@ -8,7 +8,9 @@
 
 
 Config File Management and E-mail Notifications:
+
 ##Logical Flow:
+
 __1. Install/import the necessary modules;__
 
 __2. Define the SSH connection parameters;__
